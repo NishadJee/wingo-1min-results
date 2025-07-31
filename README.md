@@ -1,0 +1,1 @@
+# wingo-1min-results
