@@ -1,0 +1,24 @@
+{
+  "name": "wingo-1min-results",
+  "version": "1.0.0",
+  "description": "An API that tracks and serves the latest 1440 WinGo 1Min results",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "wingo",
+    "api",
+    "results",
+    "1min",
+    "cron",
+    "fetch"
+  ],
+  "author": "Sahil",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
